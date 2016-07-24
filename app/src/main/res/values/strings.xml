@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Contactos</string>
+    <string name="nombre">Carlos Zárate</string>
+    <string name="nacimiento">Fecha De Nacimiento</string>
+    <string name="telefono">77777777</string>
+    <string name="email">cazarate09@gmail.com</string>
+    <string name="desc">Descripción: </string>
+    <string name="descripcion">una descripción de algo</string>
+    <string name="label_nombre">Nombre Completo</string>
+    <string name="label_fecha_nac">Fecha De Nacimiento</string>
+    <string name="label_telefono">Telefono</string>
+    <string name="label_email">Email</string>
+    <string name="label_descripcion">Descripcion</string>
+</resources>
