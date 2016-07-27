@@ -7,6 +7,6 @@
     <dimen name="telefono_contacto">20sp</dimen>
     <dimen name="email_contacto">20sp</dimen>
     <dimen name="descripcion_contacto">20sp</dimen>
-    <dimen name="top">30dp</dimen>
+    <dimen name="top">20dp</dimen>
     <dimen name="label">20dp</dimen>
 </resources>
